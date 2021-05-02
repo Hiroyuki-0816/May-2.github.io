@@ -3,16 +3,16 @@ body{
 }
 
 .header{
-  background-color:#f7f2b4;
+  background-color:red;
   height:90px;
 }
 
 .main{
-  background-color:#bdf7f1;
+  background-color:blue;
   height:600px;
 }
 
 .footer{
-  background-color:#ceccf3;
+  background-color:green;
   height:270px;
 }
