@@ -5,7 +5,7 @@ body{
 li{
   list-style:none;
   float:left;
-  padding:33px 20px 33px 20px;
+  padding:33px 20px;
 }
 .header{
   background-color:red;
@@ -14,7 +14,7 @@ li{
 .header-logo{
   float:left;
   font-size:36px;
-  padding:20px 40px 20px 40px;
+  padding:20px 40px;
 }
 .header-list{
   float:left;
@@ -39,5 +39,5 @@ li{
   float:right;
 }
 .footer-list li{
-  padding-bottom:20px;
+  padding-top:20px;
 }
