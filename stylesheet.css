@@ -21,7 +21,6 @@ li{
 }
 
 .main{
-  background-color:blue;
   padding:100px 80px;
 }
 .copy-container h1{
@@ -31,25 +30,13 @@ font-size:140px;
   font-size:60px;
 }
 .copy-container span{
-  color:yellow;
-}
-.contents{
-  height:500px;
-  margin-top:100px;
+  color:#ff4a4a;
 }
 .section-title{
-  border-bottom:2px solid orange;
+  border-bottom:2px solid #dee7ec;
   font-size:28px;
   padding-bottom:15px;
   margin-bottom:50px;
-}
-.contents-item{
-  float:left;
-  margin-right:40px;
-}
-.contents-item p{
-  font-size:24px;
-  margin-right:30px;
 }
 .contact-form{
   padding-top:100px;
@@ -60,11 +47,11 @@ input,textarea{
   margin-bottom:30px;
   padding:20px;
   font-size:18px;
-  border:1px solid black;
+  border:1px solid #dee7ec;
 }
 .contact-submit{
-  background-color:brown;
-  color:gray;
+  background-color:#dee7ec;
+  color:#889eab;
 }
 
 .footer{
